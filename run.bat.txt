@@ -1,0 +1,1 @@
+pytest --html=report\pytest_selenium_test_report.html -s -v tests\ --capture=tee-sys --self-contained-html
